@@ -72,9 +72,8 @@ Current Focus:
 
 ## 🌱 Currently Learning
 
-- 🤖 Advanced Machine Learning
+- 🤖 Advanced Artifical Intelligence & Machine Learning
 - 📊 Data Analytics & Visualization
-- 🧠 Deep Learning
 - 🐍 Python for Data Science
 - 🌍 Open Source Development
 
