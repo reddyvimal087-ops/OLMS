@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vimal Reddy
+# I'm Vimal Reddy😊
 
 ### 🤖 AIML Student | 📊 Data Analytics Enthusiast | 🐍 Python Developer
 
