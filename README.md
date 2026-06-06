@@ -1,27 +1,31 @@
-# 👋 Hi, I'm Vimal Reddy
+<h1 align="center">VimalReddy.exe</h1>
 
-### 🤖 AIML Engineer | 📊 Data Analyst | 🐍 Python Developer
+```bash
+> Initializing Profile...
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Python.
+Name        : Vimal Reddy
+Role        : AIML Engineer
+Language    : Python
+Focus       : AI/ML & Data Analytics
+Status      : Learning & Building 🚀
 
-## 🚀 Skills
+Loading Skills...
+███████████████████ 100%
 
-- Python
-- Machine Learning
-- Artificial Intelligence
-- Data Analytics
-- Data Science
-- SQL
-- Git & GitHub
+✓ Artificial Intelligence
+✓ Machine Learning
+✓ Data Analytics
+✓ Data Science
+✓ Python Programming
+✓ Open Source
 
-## 🌱 Currently Learning
+System Ready ✔
+```
 
-- Deep Learning
-- Advanced Machine Learning
-- Data Visualization
+### 🛠 Tech Stack
 
-## 📫 Connect
+Python | SQL | Git | GitHub | AI | ML | Analytics
 
-- LinkedIn: linkedin.com/in/vimalreddy-pannala
+### 🎯 Mission
 
-> "Learning, Building, and Growing Every Day."
+Transforming data into intelligent solutions.
